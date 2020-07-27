@@ -21,5 +21,4 @@ class Student < ActiveRecord::Base
         self.all
       end
     end
-  end
 end
